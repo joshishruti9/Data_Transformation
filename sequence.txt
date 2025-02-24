@@ -1,0 +1,3 @@
+rmrow(0)
+rmcol(2)
+transpose
